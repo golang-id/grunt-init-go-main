@@ -10,7 +10,7 @@ If you haven't already done so, install [grunt-init](http://gruntjs.com/project-
 Once grunt-init is installed, place this template in your `~/.grunt-init/` directory. It's recommended that you use git to clone this template into that directory, as follows:
 
 ```
-git clone https://github.com/gedex/grunt-init-go-main.git ~/.grunt-init/go-main
+git clone https://github.com/golang-id/grunt-init-go-main.git ~/.grunt-init/go-main
 ```
 
 ## Usage
