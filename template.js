@@ -32,7 +32,7 @@ exports.template = function(grunt, init, done) {
 		init.prompt('main_file', 'main'),
 		init.prompt('description', 'My awesome Go program that prints "Hello World!"'),
 		init.prompt('licenses', 'MIT'),
-		init.prompt('repository', 'https://github.com/gedex/hello-world'),
+		init.prompt('repository', 'github.com/gedex/hello-world'),
 		init.prompt('author_name'),
 		init.prompt('author_email'),
 	], function(err, props) {
